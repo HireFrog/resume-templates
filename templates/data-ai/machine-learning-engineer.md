@@ -1,5 +1,7 @@
 # Machine Learning Engineer Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For engineers who take models from notebook to production and keep them running reliably once they're live.*
 
 Machine Learning Engineer roles sit between data science and software engineering, and hiring managers are screening for that hybrid specifically: can you not just build a model, but serve it, scale it, and monitor it once real traffic hits it. A resume that only talks about model accuracy reads like a data scientist's; this template is built to foreground the production engineering half of the job — deployment, latency, monitoring, and reliability.
@@ -87,8 +89,8 @@ EDUCATION
 - If you've only worked on research-stage models, frame projects around what it would take to productionize them — show you understand the gap.
 - Quantify cost savings from optimization work (quantization, caching, batching) — ML infrastructure cost is a major concern for hiring teams.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

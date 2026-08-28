@@ -1,5 +1,7 @@
 # Mobile Engineer Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For engineers building native or cross-platform iOS and Android applications.*
 
 Mobile hiring managers want to see apps that shipped to real app stores, held up under real usage, and moved metrics that matter — crash rate, load time, ratings, retention. This template emphasizes platform depth and store-level outcomes over generic feature lists, since a mobile resume is one of the few kinds a hiring manager can go verify directly by downloading the app.
@@ -90,8 +92,8 @@ EDUCATION
 - Note experience with cross-platform frameworks separately from native SDK experience so reviewers can gauge fit precisely.
 - Keep it to one page unless you have 8+ years or multiple flagship apps worth detailing.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

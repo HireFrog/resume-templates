@@ -1,5 +1,7 @@
 # Technical Product Manager Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For PMs who own products with significant technical depth — APIs, platforms, infrastructure, or developer-facing tools.*
 
 Technical PM hiring managers look for evidence you can engage credibly with engineering on architecture and tradeoffs, not just translate requirements. This template emphasizes technical fluency alongside product outcomes.
@@ -76,8 +78,8 @@ EDUCATION
 - Include a bullet about a technical tradeoff you helped navigate — it demonstrates the technical judgment this role requires.
 - One page is standard for most experience levels.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

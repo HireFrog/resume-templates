@@ -1,5 +1,7 @@
 # Job Search Strategy
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For anyone starting a search from scratch, or restarting one that's stalled — how to set a target, a pace, and a way to tell if it's working.*
 
 A job search goes faster and feels less chaotic when you treat it like a project instead of a background task you squeeze in between other things. That means having a defined target, a schedule, and a way to know whether what you're doing is working. This guide covers how to set that foundation before you send a single application.

@@ -1,5 +1,7 @@
 # Program Manager Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For PMs who drive execution across multiple teams or workstreams toward a shared goal.*
 
 Program manager hiring managers look for evidence you can bring order to complex, cross-functional efforts — tracking dependencies, unblocking teams, and hitting dates without owning the underlying product decisions. This template emphasizes execution rigor and cross-team coordination.
@@ -76,8 +78,8 @@ EDUCATION
 - Mention process or tooling improvements you introduced, not just programs you ran within an existing process.
 - One page is standard for most experience levels.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

@@ -1,5 +1,7 @@
 # Product Designer Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For designers who own end-to-end product experiences — from problem framing through shipped UI.*
 
 Product design roles are evaluated on both craft and judgment: can you turn an ambiguous problem into a well-reasoned, well-executed interface, and can you explain the tradeoffs you made along the way? Hiring teams are also checking whether you can operate across the full lifecycle — research, structure, visual execution, and measurement — rather than just one slice of it. This template gives you a structure that surfaces all of that at once.
@@ -93,8 +95,8 @@ EDUCATION
 - Cut visual-only descriptions ("clean, modern UI") — they don't differentiate and don't belong on a resume.
 - If you've led or mentored other designers, say so explicitly — leadership signals matter even in individual-contributor searches.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

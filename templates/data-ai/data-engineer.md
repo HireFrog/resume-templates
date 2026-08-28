@@ -1,5 +1,7 @@
 # Data Engineer Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For engineers who build and maintain the pipelines, warehouses, and infrastructure that make analytics and ML possible.*
 
 Data Engineer hiring managers are screening for one core question: can this person be trusted to move data reliably, at scale, without breaking things downstream? Unlike analyst or data science roles, the value here is mostly invisible when done well — nobody notices a pipeline that never fails. This template is built to make that invisible reliability visible on the page, through scale, uptime, and infrastructure ownership.
@@ -87,8 +89,8 @@ EDUCATION
 - Distinguish between building a pipeline from scratch and maintaining/optimizing an existing one; both are valuable, but be precise.
 - If most of your value is invisible reliability, make it visible with before/after numbers rather than assuming the reader will infer it.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

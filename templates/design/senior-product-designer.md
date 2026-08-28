@@ -1,5 +1,7 @@
 # Senior Product Designer Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For designers who lead complex projects, mentor others, and shape design direction beyond their own screens.*
 
 At the senior level, a resume needs to show scope beyond individual execution: ambiguous problems you framed for others, designers you mentored, and design decisions that shaped the broader product or system. Reviewers are reading for altitude — did you own a surface area, influence strategy, and raise the bar for people around you, not just ship well-crafted screens. This template is built around that shift.
@@ -92,8 +94,8 @@ EDUCATION
 - Avoid title inflation; let scope and outcomes establish seniority rather than adjectives.
 - If you've represented design in leadership or planning conversations, include it — it signals strategic trust, not just craft trust.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

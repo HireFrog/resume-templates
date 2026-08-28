@@ -1,5 +1,7 @@
 # Business Intelligence Analyst Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For analysts who build the dashboards, reports, and metrics that leadership relies on to run the business.*
 
 Business Intelligence Analyst roles are judged less on one-off analysis and more on the reliability, adoption, and clarity of the reporting infrastructure you own. Hiring managers want to know: do people actually use your dashboards, do executives trust the numbers, and can you gather requirements from a stakeholder who doesn't fully know what they're asking for yet. This template is built around that reporting-and-trust throughline, distinct from the deeper statistical framing of a data scientist's resume.
@@ -79,8 +81,8 @@ EDUCATION
 - Show both technical depth (SQL, data modeling) and design sense (dashboard usability, adoption) — the strongest BI resumes demonstrate both.
 - Keep the resume to one page for most experience levels; let the work speak through outcomes, not tool lists.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

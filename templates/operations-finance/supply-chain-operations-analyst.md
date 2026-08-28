@@ -1,5 +1,7 @@
 # Supply Chain / Operations Analyst Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For candidates analyzing and optimizing logistics, inventory, procurement, or fulfillment operations.*
 
 Supply chain analyst roles are evaluated on how well you turn operational data into decisions that reduce cost, improve speed, or reduce risk. This template emphasizes throughput, cost, and accuracy metrics — the language supply chain hiring managers scan for first — along with the scale of what you managed, since that signals seniority as much as title does.
@@ -93,8 +95,8 @@ ADDITIONAL SECTIONS (optional)
 - Distinguish planning/forecasting work from execution/logistics work if you've done both — they read as different specializations.
 - Quantify accuracy alongside speed — forecast accuracy, order accuracy, or inventory accuracy is as important to this function as throughput.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

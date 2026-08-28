@@ -1,5 +1,7 @@
 # Senior Data Scientist Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For experienced data scientists moving into roles with more scope, more ambiguity, and more responsibility for the "why," not just the "how."*
 
 At the senior level, hiring managers assume you can build a model — what they're evaluating is whether you can set the research agenda, mentor others, and make the case for a data science investment to people who control budget. This template shifts the emphasis from individual analyses toward technical leadership, cross-functional influence, and the scale of decisions your work has shaped.
@@ -79,8 +81,8 @@ EDUCATION
 - Name the executive or leadership audience you've presented to; it signals your comfort operating above the team level.
 - Trim early-career bullets that no longer reflect your current scope — a senior resume should read senior throughout, not just in the most recent role.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

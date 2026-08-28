@@ -1,5 +1,7 @@
 # DevOps Engineer Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For engineers focused on infrastructure, CI/CD, and the systems that keep software deployable and running.*
 
 DevOps hiring managers look for evidence of reliable, automated infrastructure and faster, safer deployment pipelines. This template emphasizes automation, reliability, and measurable operational improvements over a list of tools you've merely configured once — the goal is to show what got faster, cheaper, or more reliable because you built it.
@@ -92,8 +94,8 @@ EDUCATION
 - Show automation impact in terms of time saved for other engineers, not just your own convenience.
 - Be precise about scale (number of services, servers, requests, or team size supported) — vague claims read as junior.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

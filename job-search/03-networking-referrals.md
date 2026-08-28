@@ -1,5 +1,7 @@
 # Networking & Referrals
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For anyone who'd rather send a hundred cold applications than one networking message — why referrals matter, and how to reach out without it feeling transactional.*
 
 A referral typically moves a resume from a pile of hundreds to a direct hand-off to a hiring manager, which is why networking is one of the highest-leverage things you can do in a search — and also one of the most avoided, usually because it feels transactional or uncomfortable. This guide covers how to network in a way that doesn't feel like that, and how to actually ask for a referral once you have a relationship.

@@ -1,5 +1,7 @@
 # Content Marketing Manager Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For marketers who plan and produce content programs — blogs, SEO, guides, video, or newsletters — to drive organic traffic, engagement, and pipeline.*
 
 Content Marketing Manager resumes need to prove that content isn't just being produced, but is working: driving traffic, ranking in search, engaging an audience, and contributing to pipeline. This template centers on those outcome metrics while leaving room to show the editorial and operational skill (content calendars, SEO strategy, cross-format production) that hiring managers use to judge whether you can run a content function, not just write.
@@ -89,8 +91,8 @@ CERTIFICATIONS (optional)
 - Distinguish top-of-funnel content (traffic, awareness) from bottom-of-funnel content (gated assets, conversion) in your bullets.
 - Use specific numbers for traffic and leads rather than vague growth claims — reviewers discount unquantified "significant increase" language.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

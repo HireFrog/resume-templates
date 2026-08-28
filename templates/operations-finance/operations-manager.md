@@ -1,5 +1,7 @@
 # Operations Manager Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For candidates who run day-to-day business operations — process, people, vendors, and systems that keep a company functioning.*
 
 Operations Manager roles vary widely by industry, but hiring managers are almost always looking for the same underlying signal: can this person take a messy, manual, or inefficient process and make it reliable, measurable, and scalable. This template is built around that signal, with an emphasis on scope (team, budget, functions owned) and quantified efficiency gains. Because the title covers everything from warehouse operations to office administration, the resume also needs to state your specific domain up front so a reader isn't left guessing.
@@ -94,8 +96,8 @@ ADDITIONAL SECTIONS (optional)
 - Avoid vague verbs like "helped" or "assisted." Use "owned," "built," "redesigned," "led."
 - If you've managed through growth, a reorg, or a crisis, say so — operational resilience under change is a strong differentiator at the manager level.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

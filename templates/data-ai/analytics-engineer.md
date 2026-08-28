@@ -1,5 +1,7 @@
 # Analytics Engineer Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For engineers who own the transformation layer between raw data and the metrics the business actually trusts.*
 
 Analytics Engineer emerged as its own discipline because someone needs to own the middle: raw data lands in the warehouse, but it isn't yet trustworthy, modeled, or documented enough for analysts and stakeholders to self-serve from. Hiring managers here want evidence of clean data modeling practice — tested, documented, version-controlled transformations — not just SQL ability. This template is built around that specific value proposition: turning messy raw tables into a reliable semantic layer.
@@ -79,8 +81,8 @@ EDUCATION
 - Quantify self-service impact where possible — reduced ad hoc requests, fewer "which number is right" conversations, faster time-to-insight for analysts.
 - Include a project with a public GitHub repo if you have one; a well-structured dbt project is a strong, checkable portfolio piece.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

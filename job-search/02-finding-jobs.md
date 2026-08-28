@@ -1,5 +1,7 @@
 # Finding Jobs
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For anyone whose search is limited to scrolling one big aggregator — a map of where real openings actually come from, and how to stay visible to people looking for someone like you.*
 
 Most job seekers start and end with one or two big job boards, but the openings that are easiest to find are also the ones with the most competition. Casting a slightly wider net — and knowing how to quickly judge whether a listing is worth your time — makes a meaningful difference in response rates. This guide covers where to look, how to evaluate what you find, and how to stay discoverable so opportunities also come to you.

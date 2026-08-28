@@ -1,5 +1,7 @@
 # Growth Marketing Manager Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For data-driven marketers who own the acquisition funnel end-to-end, running experiments to improve conversion, CAC, and LTV across paid and organic channels.*
 
 Growth Marketing resumes are evaluated on experimentation rigor and unit economics: can you run a structured test-and-learn process, and do your channels actually pay back. This template is built around funnel metrics, CAC/LTV, and A/B testing velocity, with an emphasis on showing the process (hypothesis, test, result) behind each win rather than just the final number — because growth hiring managers want to see how you think, not just what you achieved.
@@ -81,8 +83,8 @@ EDUCATION
 - Distinguish paid-channel wins (CAC, ROAS) from product/lifecycle wins (activation, retention) so scope is clear.
 - Avoid vanity metrics like raw traffic or impressions unless tied to a downstream conversion or revenue outcome.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

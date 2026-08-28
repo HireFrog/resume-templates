@@ -1,5 +1,7 @@
 # QA / Test Engineer Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For engineers focused on test strategy, automation, and shipping software with fewer defects.*
 
 QA hiring managers want to see that you can build test coverage that actually prevents regressions, not just write test cases and execute them by hand. This template emphasizes automation, process improvement, and measurable reductions in bugs reaching production, since those outcomes are what separate a strong QA engineer from someone who only ran a checklist.
@@ -91,8 +93,8 @@ EDUCATION
 - If you've influenced testing process or standards across a team, say so explicitly — it signals leverage beyond individual test writing.
 - Keep the resume to one page for most experience levels; two pages only past roughly 8 years.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

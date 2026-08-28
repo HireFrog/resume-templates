@@ -1,5 +1,7 @@
 # Senior Product Manager Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For PMs who own a larger, more ambiguous product area and increasingly shape strategy, not just execution.*
 
 At the senior level, resumes need to show strategic ownership — setting direction for a product area, not just shipping within one. This template is built around scope, ambiguity, and strategic influence.
@@ -77,8 +79,8 @@ EDUCATION
 - Reference executive-level communication explicitly if you've presented strategy or business cases upward.
 - One page is still achievable for most; two pages only if every line earns its place.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

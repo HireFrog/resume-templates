@@ -1,5 +1,7 @@
 # Product Owner Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For product owners who manage the backlog and day-to-day priorities for a scrum team or product area.*
 
 Product owner hiring managers (common in Agile/Scrum-structured organizations) look for evidence you can translate stakeholder needs into a well-groomed backlog and keep a team shipping predictably. This template emphasizes backlog management, stakeholder alignment, and delivery within sprints.
@@ -76,8 +78,8 @@ EDUCATION
 - Name the specific Agile tools you've used (Jira, Azure DevOps) since many teams standardize on one.
 - One page is standard for most experience levels.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

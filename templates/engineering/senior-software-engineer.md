@@ -1,5 +1,7 @@
 # Senior Software Engineer Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For engineers who own significant systems end-to-end and are expected to work with less oversight.*
 
 At the senior level, hiring managers look past "can you code" toward "can you own ambiguous problems, make sound technical tradeoffs, and raise the bar for the people around you." This template is built to surface ownership, technical judgment, and cross-team influence rather than a longer list of tasks completed. Every bullet should answer "what did you own, and what changed because you owned it."
@@ -91,8 +93,8 @@ EDUCATION
 - If you've influenced hiring, architecture reviews, or on-call structure, mention it briefly — these are senior-level signals recruiters look for.
 - Show at least one instance where you pushed back on a plan and the outcome was better for it — it demonstrates judgment, not just agreeableness.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

@@ -1,5 +1,7 @@
 # AI Engineer Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For engineers building applications on top of large language models — RAG systems, agents, and generative AI products.*
 
 AI Engineer is a newer role category, distinct from traditional ML Engineer: instead of training models from scratch, you're building products on top of foundation models via APIs, orchestration frameworks, and retrieval systems. Hiring managers here care less about your linear algebra and more about whether you can design a reliable, cost-aware system around a fundamentally probabilistic component. This template is built to show that systems thinking — evaluation, grounding, and failure handling — not just "I called an LLM API."
@@ -79,8 +81,8 @@ EDUCATION
 - If you're transitioning from traditional software or ML engineering, frame your systems and reliability experience as directly transferable — it often is.
 - Link to a live demo or GitHub repo wherever possible; in this field, working code carries more weight than description alone.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

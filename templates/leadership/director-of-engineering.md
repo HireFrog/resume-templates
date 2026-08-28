@@ -1,5 +1,7 @@
 # Director of Engineering Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For engineering leaders who manage managers and own outcomes across multiple teams.*
 
 A Director of Engineering resume needs to show you can run an organization, not just a team: setting strategy across multiple workstreams, developing the managers under you, and being accountable for delivery at the org level. Reviewers are looking for evidence of scale — how many teams, how many people, how much of the business depended on what you ran. The resume should read as a story of org design and manager development, not a bigger version of an individual-contributor resume, and it should make clear that your primary lever for impact is other leaders' effectiveness, not your own hands-on work.
@@ -90,8 +92,8 @@ EDUCATION
 - Call out how you developed managers specifically, not just engineers; growing a first-time manager into a strong one is a core director deliverable and an easy differentiator.
 - When listing scope, be precise about direct versus indirect reports (managers you supervise versus engineers under those managers) so readers can size your role accurately.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

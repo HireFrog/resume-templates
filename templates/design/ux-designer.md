@@ -1,5 +1,7 @@
 # UX Designer Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For designers focused on interaction flows, usability, and the structure behind an experience.*
 
 UX-focused roles are judged on how clearly you can reason about user needs and translate them into flows and interactions that actually work. Reviewers are looking for evidence of process — how you got from a problem to a structure, and how you knew the structure was right — not just finished screens. This template emphasizes that reasoning alongside execution.
@@ -92,8 +94,8 @@ EDUCATION
 - Name the flow or process explicitly (e.g. "checkout," "onboarding") rather than describing work in the abstract.
 - Distinguish clearly between structural decisions (flows, IA) you owned and visual execution someone else handled.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

@@ -1,5 +1,7 @@
 # Site Reliability Engineer (SRE) Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For engineers focused on keeping production systems available, fast, and recoverable at scale.*
 
 SRE hiring managers look for evidence that you can define reliability in measurable terms and act on it — not just "keep things up," but set SLOs, reduce toil, and respond calmly when something breaks. This template emphasizes reliability engineering as a discipline with its own metrics, rather than framing the role as generic on-call coverage.
@@ -93,8 +95,8 @@ EDUCATION
 - If you've built or matured an observability stack, say so explicitly — it's a strong differentiator.
 - Keep postmortem descriptions short and outcome-focused; the fix matters more than the narrative.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

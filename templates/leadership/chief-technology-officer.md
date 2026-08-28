@@ -1,5 +1,7 @@
 # Chief Technology Officer (CTO) Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For technology executives who own company-wide technical vision and sit on or report to the leadership team and board.*
 
 A CTO resume is closer to an executive bio than a traditional resume. It needs to establish that you can set technology as a competitive strategy, communicate that strategy to a board and investors, and be accountable for the technical foundation of the entire company — not just lead engineering delivery. Every section should reinforce that you think about technology at the level of company risk, investment, and long-term positioning, not just at the level of shipping features.
@@ -92,8 +94,8 @@ EDUCATION
 - State your reporting relationship and board involvement clearly (e.g. "reported to the CEO, presented quarterly to the board") — CTO scope varies widely and this removes ambiguity fast.
 - Where relevant, note major build-vs-buy or vendor decisions by name; these are some of the highest-leverage, most memorable judgment calls a CTO makes.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

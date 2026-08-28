@@ -1,5 +1,7 @@
 # Sales Manager Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For sales leaders who build, coach, and manage a team of Account Executives or SDRs against a shared revenue target.*
 
 Sales Manager resumes need to prove two things at once: that you can hit a number as a leader, and that you can develop the people who hit it with you. This template balances team-level revenue outcomes (quota attainment, forecast accuracy) with people-management evidence (hiring, ramp time, coaching, retention), since hiring committees weigh both heavily when evaluating first-line and second-line sales leaders.
@@ -87,8 +89,8 @@ EDUCATION
 - Tailor team size and quota figures precisely — vague ranges read as less credible than specific numbers.
 - Note span of control (team size, number of regions/segments) up top so scope is clear at a glance.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

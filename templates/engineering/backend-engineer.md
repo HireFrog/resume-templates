@@ -1,5 +1,7 @@
 # Backend Engineer Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For engineers focused on server-side systems, APIs, data storage, and infrastructure.*
 
 Backend hiring managers look for evidence of system design judgment, reliability awareness, and the ability to handle scale. This template emphasizes throughput, latency, and reliability numbers alongside the systems you built, since those are the details a backend-focused reviewer checks first — not just which frameworks appear on the page.
@@ -87,8 +89,8 @@ EDUCATION
 - Mention API versioning, backward compatibility, or contract design if you own external-facing endpoints — it signals production maturity.
 - If you've done capacity planning ahead of a known traffic event (launch, seasonal peak), describe how you sized the system and what happened.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

@@ -1,5 +1,7 @@
 # HR / People Operations Manager Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For candidates who run HR programs, systems, and processes — from onboarding to performance to compliance.*
 
 People Operations resumes need to show two things at once: empathy for employees and rigor about systems and compliance. This template balances both, emphasizing measurable program outcomes — retention, time-to-fill, engagement — rather than just a list of HR duties. The stronger your resume shows business impact alongside employee experience, the more competitive you'll be for manager-level roles.
@@ -93,8 +95,8 @@ ADDITIONAL SECTIONS (optional)
 - If you've supported a company through a specific milestone (rapid hiring, RIF, acquisition), mention it — it signals resilience under pressure.
 - Avoid listing every HR task you've touched; prioritize the programs you owned end-to-end over ones you only supported.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

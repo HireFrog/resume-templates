@@ -1,5 +1,7 @@
 # Marketing Manager Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For generalist marketing leaders who plan, execute, and measure cross-channel campaigns, often while managing a small team or specialist contributors.*
 
 Marketing Manager is a broad title, so the resume needs to establish scope quickly: which channels you own, what budget you manage, and what business results your campaigns drove. This template is built to show range across campaign planning, budget stewardship, and team coordination while still grounding every claim in a measurable outcome — because "managed marketing" without numbers reads as junior regardless of actual seniority.
@@ -88,8 +90,8 @@ EDUCATION
 - If you led people, separate leadership bullets from execution bullets so both are visible at a glance.
 - Be specific about which channels you owned directly vs. which you coordinated through an agency or another team.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

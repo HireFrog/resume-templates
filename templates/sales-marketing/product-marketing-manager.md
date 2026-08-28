@@ -1,5 +1,7 @@
 # Product Marketing Manager Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For marketers who own positioning, messaging, and go-to-market strategy for a product or product line, bridging Product, Sales, and Marketing.*
 
 Product Marketing Manager (PMM) resumes are judged on strategic impact more than raw activity: can you position a product against the competition, run a launch that moves metrics, and arm Sales to win deals. This template is structured around those three pillars — positioning/messaging, launches, and sales enablement — with an emphasis on business outcomes (adoption, win rate, pipeline) rather than deliverables alone.
@@ -89,8 +91,8 @@ CERTIFICATIONS (optional)
 - If you don't have hard revenue attribution, use adoption, engagement, or enablement metrics instead — just avoid vague claims.
 - Keep tactical deliverables (decks, one-pagers, battlecards) in service of a business result rather than as standalone bullets.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

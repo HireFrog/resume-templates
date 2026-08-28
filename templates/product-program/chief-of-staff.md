@@ -1,5 +1,7 @@
 # Chief of Staff Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For operators who extend an executive's leverage across strategy, operations, and cross-functional execution.*
 
 Chief of Staff hiring is highly variable by company, but hiring managers consistently look for evidence of high judgment, discretion, and the ability to drive execution without formal authority. This template emphasizes leverage created for the executive and organization, not task completion.
@@ -76,8 +78,8 @@ EDUCATION
 - Avoid vague "trusted advisor" language without a concrete example backing it up.
 - This role varies widely by company — tailor which competencies you emphasize based on whether the target role skews strategic, operational, or executive-support.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

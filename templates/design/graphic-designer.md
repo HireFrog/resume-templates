@@ -1,5 +1,7 @@
 # Graphic Designer Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For designers working across brand, marketing, print, and visual content.*
 
 Graphic design resumes are judged on range, consistency, and the ability to serve a brief — whether that's a campaign, a brand system, or a one-off asset delivered under deadline. Because output volume and turnaround are real parts of the job, reviewers are also reading for reliability and scale, not just individual pieces of polished work. This template balances portfolio-first presentation with concrete evidence of impact and reliability.
@@ -91,8 +93,8 @@ EDUCATION
 - Keep descriptions specific to the brief and outcome, not just the software used.
 - If you work across brand, digital, and print, show at least one example of each — versatility is a real asset in this field.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

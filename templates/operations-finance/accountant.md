@@ -1,5 +1,7 @@
 # Accountant Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For candidates in general accounting, staff/senior accountant, or accounting specialist roles.*
 
 Accounting resumes are evaluated on accuracy, compliance, and process ownership — the goal is to show you can be trusted with the books. This template emphasizes precision, systems experience, and the specific accounting functions you own, rather than generic descriptions of "financial responsibilities." Naming your exact scope (GL, AP, AR, close, reporting) upfront helps a reviewer place you correctly within seconds.
@@ -93,8 +95,8 @@ ADDITIONAL SECTIONS (optional)
 - Mention audit experience explicitly if you have it; it signals your work holds up under external scrutiny.
 - If you've operated under multi-entity or multi-currency accounting, note it — it signals readiness for more complex environments.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

@@ -1,5 +1,7 @@
 # Full Stack Engineer Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For engineers who work across the frontend and backend to ship complete features, often on small or resource-constrained teams.*
 
 Full stack resumes are judged on breadth combined with the ability to actually finish a feature end-to-end — from data model to UI — without needing a specialist on the other side of the stack. This template balances both sides without diluting either, and gives you room to show at least one feature you owned completely on your own.
@@ -90,8 +92,8 @@ EDUCATION
 - If you've worked at a small company or startup, mention team size — it contextualizes why your scope was broad.
 - Call out any decisions you made about buying vs. building infrastructure — it shows pragmatic judgment beyond raw coding range.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

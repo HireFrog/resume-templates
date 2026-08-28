@@ -1,5 +1,7 @@
 # Product Manager Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For PMs who own a product area end to end — discovery, roadmap, execution, and outcomes.*
 
 Product manager hiring managers look for evidence you can identify the right problem, ship a solution, and move a metric — not just coordinate a launch. This template emphasizes outcomes over activity.
@@ -76,8 +78,8 @@ EDUCATION
 - Avoid listing every feature you touched — pick the 4-6 with the clearest outcomes.
 - One page is standard for most experience levels in this field.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

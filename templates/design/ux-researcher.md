@@ -1,5 +1,7 @@
 # UX Researcher Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For researchers who generate insight that shapes product and design decisions.*
 
 UX research resumes are judged on rigor and influence: did your research use sound methods, and did it actually change what got built? This is a different bar than visual craft — reviewers are looking at your choice of method, the quality of your synthesis, and evidence that findings moved a real decision rather than sitting in a report. This template centers on methods and downstream impact rather than visual output.
@@ -91,8 +93,8 @@ EDUCATION
 - Include sample sizes and participant counts where you can; they signal rigor even without a business metric.
 - If you've presented findings directly to leadership or cross-functional stakeholders, say so — it shows research influence, not just execution.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

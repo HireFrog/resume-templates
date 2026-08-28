@@ -1,5 +1,7 @@
 # Application Strategy
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For anyone deciding what to actually send, and to how many companies — the strategy behind a good application, not the structure of the resume itself.*
 
 Once you've found openings worth pursuing, the next decision is how to actually apply to them — and specifically, how much time to spend per application versus how many to send. This is where most searches either stall out from over-perfecting a handful of applications, or burn effort on a flood of generic ones that never land. This guide covers how to prioritize and tailor applications so your time goes where it actually helps.

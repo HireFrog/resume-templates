@@ -1,5 +1,7 @@
 # Customer Success Manager Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For post-sale professionals responsible for onboarding, adoption, retention, and expansion within an existing customer base.*
 
 Customer Success Manager (CSM) resumes are evaluated on retention math: how much revenue you kept, how much you grew, and how efficiently you did it across a book of accounts. This template centers on renewal rate, net/gross revenue retention, and expansion revenue, while also making room for the relationship and product-adoption work that drives those numbers — since CS hiring managers want both the outcomes and the process behind them.
@@ -87,8 +89,8 @@ CERTIFICATIONS (optional)
 - If you support multiple segments (SMB vs. enterprise), clarify which one each metric applies to for an accurate read.
 - Distinguish high-touch (fewer, larger accounts) from tech-touch/pooled (many smaller accounts) experience; the skill sets read differently.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

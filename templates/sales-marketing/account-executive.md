@@ -1,5 +1,7 @@
 # Account Executive Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For B2B or B2C sales professionals who own the full deal cycle — from qualified opportunity to closed-won — across SMB, mid-market, or enterprise segments.*
 
 Account Executive resumes are judged almost entirely on numbers: quota attainment, pipeline generated, deal size, and win rate. Hiring managers skim for evidence that you can carry a number and consistently hit it, so the resume needs to read like a track record of results rather than a list of duties. This template is built around quantified proof of sales performance, with room to show how you sell as well as what you closed.
@@ -90,8 +92,8 @@ CERTIFICATIONS (optional)
 - Keep the resume to one page unless you have 10+ years of experience or are applying for a senior/strategic AE role.
 - If you carry both new-business and expansion quota, break out how much of your number came from each — hiring managers evaluate hunters and farmers differently.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

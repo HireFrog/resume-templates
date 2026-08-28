@@ -1,5 +1,7 @@
 # Follow-Up
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For anyone staring at an inbox that's gone quiet — how and when to follow up, and how to handle what comes after, from multiple offers to rejection.*
 
 Following up is one of the simplest ways to stand out in a search, precisely because most candidates either skip it or do it in a way that feels pushy. Done well, it signals genuine interest and professionalism without adding pressure. This guide covers when and how to follow up after applying, after interviews, and when you hear nothing at all.

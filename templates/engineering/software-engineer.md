@@ -1,5 +1,7 @@
 # Software Engineer Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For engineers building and shipping software as an individual contributor, from early-career through mid-level.*
 
 Software engineer resumes are judged on evidence that you can independently design, build, and ship working software — and that your code holds up once it's in front of real users or real load. Hiring managers skim for concrete outcomes, not tool lists, so this template centers each bullet on a problem you solved and a result you can defend in an interview. Use it as a starting skeleton, then swap in your own numbers and systems.
@@ -91,8 +93,8 @@ EDUCATION
 - Tailor the Skills section per application — mirror the language the job posting uses where it's honest to do so.
 - Order your Experience bullets by impact, not chronology within a role — put your strongest result first.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

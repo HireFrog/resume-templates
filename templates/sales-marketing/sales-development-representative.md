@@ -1,5 +1,7 @@
 # Sales Development Representative (SDR) Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For entry-to-mid-level sales professionals responsible for outbound prospecting, lead qualification, and building pipeline for Account Executives.*
 
 SDR roles are activity- and conversion-driven: hiring managers want to see proof that you can consistently generate qualified meetings, not just that you made calls. Because many SDR candidates are early in their careers, this resume leans harder on measurable activity metrics and conversion rates than on tenure, and gives room to show tool fluency and coachability alongside the numbers.
@@ -88,8 +90,8 @@ CERTIFICATIONS (optional)
 - Keep this to one page; SDR is an early-career role and recruiters expect concise resumes.
 - If you're targeting a specific segment or vertical, mention it — SDR teams increasingly hire for account-based, segment-specific experience.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

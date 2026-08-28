@@ -1,5 +1,7 @@
 # VP Engineering Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For engineering executives who set org-wide strategy and operate as a peer to the rest of the leadership team.*
 
 A VP Engineering resume needs to read like an executive document: strategy, scale, and business outcomes first, technical detail second. Boards and CEOs hiring for this role want to see that you've operated at the intersection of engineering and the business — budget, hiring plans, exec communication — not just that you can run teams well. The resume should demonstrate that you can own the entire engineering function as a business unit, with directors reporting to you and results measured in company-level terms.
@@ -93,8 +95,8 @@ EDUCATION
 - Quantify the size of the bet you owned — budget, headcount percentage of the company, or revenue dependent on your org — so readers can gauge the real weight of the role.
 - If you've hired or replaced a leadership layer (directors, senior managers), state it plainly; building durable leadership structure is one of the clearest markers of VP-level impact.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

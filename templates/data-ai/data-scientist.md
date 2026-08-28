@@ -1,5 +1,7 @@
 # Data Scientist Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For scientists who use statistics, modeling, and experimentation to answer business questions.*
 
 Data scientist hiring managers want evidence of rigorous methodology and business impact together — not just modeling skill in isolation. This template balances technical depth with the outcomes your analysis or models drove.
@@ -79,8 +81,8 @@ EDUCATION
 - If you have relevant publications or competition results (Kaggle, etc.), list them briefly rather than in exhaustive detail.
 - One page is standard early-career; two pages are acceptable with a PhD or 8+ years of experience.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

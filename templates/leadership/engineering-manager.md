@@ -1,5 +1,7 @@
 # Engineering Manager Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For engineers who now manage a team and are hired to deliver through people, not just code.*
 
 An Engineering Manager resume needs to prove two things at once: that you understand the technical work well enough to make good calls, and that you can grow, direct, and retain a team that ships. Hiring managers are scanning for team-level outcomes — delivery, quality, retention — not individual commits. The strongest resumes at this level read as a track record of people decisions and delivery outcomes, backed by just enough technical detail to establish credibility.
@@ -93,8 +95,8 @@ EDUCATION
 - Name the products or systems your team owned, even briefly; it gives non-technical and technical readers alike a concrete anchor for the scope of your role.
 - If you're moving from a larger to a smaller company (or vice versa), acknowledge the resourcing difference directly rather than letting the reader guess why your metrics look different.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

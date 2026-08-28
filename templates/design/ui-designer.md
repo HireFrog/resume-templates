@@ -1,5 +1,7 @@
 # UI Designer Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For designers focused on visual systems, interaction detail, and polish within an established product.*
 
 UI-focused roles are judged heavily on visual execution and consistency — typography, spacing, color, and interaction detail applied within a system rather than invented from scratch each time. This template still frames your work around decisions and impact rather than pure aesthetics, because that's what differentiates a strong resume even in a visually-driven discipline. It also gives design system and craft consistency their own space, since that's often the real signal at this level.
@@ -92,8 +94,8 @@ EDUCATION
 - Avoid subjective adjectives ("beautiful," "sleek") — let the portfolio and outcomes speak for themselves.
 - If you work across platforms (web, iOS, Android), call out consistency work explicitly — it's a distinct, valued skill.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**

@@ -1,5 +1,7 @@
 # Business Analyst Resume Template
 
+> **Format:** Markdown (`.md`) · **Designed for:** Humans + AI agents
+
 *For candidates who translate business problems into requirements, analysis, and recommendations that others act on.*
 
 Business Analyst is one of the broadest titles in the industry — it can mean process analysis, systems requirements, financial modeling, or a blend of all three. This template focuses on the throughline hiring managers actually screen for: the ability to turn ambiguous business questions into clear, actionable recommendations backed by data. Naming your domain and the decisions your work informed matters more than listing every methodology you know.
@@ -93,8 +95,8 @@ ADDITIONAL SECTIONS (optional)
 - Keep documentation-heavy work (BRDs, user stories) brief on the resume; save examples for the interview or portfolio.
 - Distinguish process/operations analysis from systems/data analysis if you've done both — they signal different strengths to different hiring managers.
 
-## Make It Specific to the Job
+## From `.md` Template to Tailored Resume
 
-This template gives you the starting structure. The resume you send should reflect both your actual experience and what the specific employer is looking for.
+This file gives you the structure. The resume you actually submit should reflect both your real experience and the specific job you're targeting.
 
-**[Tailor your resume with HireFrog →](https://www.hirefrog.co)**
+**[Tailor it with HireFrog →](https://www.hirefrog.co)**
